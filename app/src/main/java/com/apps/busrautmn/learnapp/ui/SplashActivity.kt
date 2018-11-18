@@ -1,9 +1,10 @@
-package com.apps.busrautmn.learnapp
+package com.apps.busrautmn.learnapp.ui
 
 import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
+import com.apps.busrautmn.learnapp.R
 
 class SplashActivity : AppCompatActivity() {
 
